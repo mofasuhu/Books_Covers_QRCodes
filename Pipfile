@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+qrcode = "*"
+fpdf = "*"
+python-bidi = "*"
+arabic-reshaper = "*"
+openpyxl = "*"
+pillow = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
